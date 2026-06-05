@@ -7,7 +7,7 @@ public class AddofMatrices{
 
 		for(int i=0;i<A.length;i++)
 		{
-			for(int j=0;j<A[0].length;j++)
+	 		for(int j=0;j<A[0].length;j++)
 			{
 				C[i][j]=A[i][j]+B[i][j];
 			}
