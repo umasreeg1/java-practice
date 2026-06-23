@@ -1,6 +1,6 @@
 public class ReverseOverloading {
 
-    // Reverse an integer
+  
     int reverse(int n) {
         int rev = 0;
 
@@ -12,7 +12,7 @@ public class ReverseOverloading {
         return rev;
     }
 
-    // Reverse an array
+    
     int[] reverse(int[] arr) {
         int[] revArr = new int[arr.length];
 
